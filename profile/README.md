@@ -135,13 +135,14 @@ If you love Font Story and want to help us grow, consider supporting our work:
 
 <p align="center">
   <a href="https://buymeacoffee.com/studiomoon" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow?logo=buymeacoffee" alt="Buy Me a Coffee" />
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow?logo=buymeacoffee" alt="Buy Me a Coffee" height="25" />
   </a>
   &nbsp;
   <a href="http://www.coffeete.ir/studiomoon" target="_blank">
-    <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" alt="حمایت در CoffeeTe" width="260" />
+    <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" alt="حمایت در CoffeeTe" height="25" />
   </a>
 </p>
+
 
 
 ---
