@@ -71,13 +71,18 @@ Whether you're an artist, developer, or enthusiast, you can import and export pr
 
 ## ✨ Preview Styles
 
-| 🍭 Kouman | 🍪 Oreo | 🌌 Arka | 🌠 Arka 2 | 💖 Barbie |
-|----------|---------|--------|----------|------------|
-| ![Kouman](previews/kouman.png) | ![Oreo](previews/oreo.png) | ![Arka](previews/arka.png) | ![Arka2](previews/arka2.png) | ![Barbie](previews/barbie.png) |
+| 🍭 Kouman | 🍪 Oreo | 🌌 Arka | 🌠 Arka 2 | 💖 Barbie | 🍯 Honey | 🕰️ Nostalgia | 🌸 Sherry |
+|----------|---------|--------|----------|------------|---------|---------------|-----------|
+| ![Kouman](https://github.com/FontStory/font-story-data/blob/main/data/styles/kouman.png) | ![Oreo](https://github.com/FontStory/font-story-data/blob/main/data/styles/oreo.png) | ![Arka](https://github.com/FontStory/font-story-data/blob/main/data/styles/arka.png) | ![Arka2](https://github.com/FontStory/font-story-data/blob/main/data/styles/arka2.png) | ![Barbie](https://github.com/FontStory/font-story-data/blob/main/data/styles/barbie.png) | ![Honey](https://github.com/FontStory/font-story-data/blob/main/data/styles/honey.png) | ![Nostalgia](https://github.com/FontStory/font-story-data/blob/main/data/styles/nostalgia.png) | ![Sherry](https://github.com/FontStory/font-story-data/blob/main/data/styles/sherry.png) |
 
-| 🍯 Honey | 🕰️ Nostalgia | 🌸 Sherry | 🐆 Leopard | 🌿 Jungle |
-|---------|---------------|-----------|------------|----------|
-| ![Honey](previews/honey.png) | ![Nostalgia](previews/nostalgia.png) | ![Sherry](previews/sherry.png) | ![Leopard](previews/leopard.png) | ![Jungle](previews/jungle.png) |
+| 🐆 Leopard | 🌿 Jungle | 🎨 Believe | 🖌️ Brush | 📚 Comic | ✨ Custom | 🌙 Dark Note | 🎨 Figma |
+|------------|-----------|-----------|----------|---------|-----------|--------------|---------|
+| ![Leopard](https://github.com/FontStory/font-story-data/blob/main/data/styles/leopard.png) | ![Jungle](https://github.com/FontStory/font-story-data/blob/main/data/styles/jungle.png) | ![Believe](https://github.com/FontStory/font-story-data/blob/main/data/styles/believe.png) | ![Brush](https://github.com/FontStory/font-story-data/blob/main/data/styles/brush.png) | ![Comic](https://github.com/FontStory/font-story-data/blob/main/data/styles/comic.png) | ![Custom](https://github.com/FontStory/font-story-data/blob/main/data/styles/custom.png) | ![Dark Note](https://github.com/FontStory/font-story-data/blob/main/data/styles/dark_note.png) | ![Figma](https://github.com/FontStory/font-story-data/blob/main/data/styles/figma.png) |
+
+| 📱 iOS Dark Notif | 💬 iOS Message | 🔔 iOS Notif | 📺 Media | 🎵 Player | 🌑 Shadow | ✒️ Stroke | 🔻 Underline |
+|-----------------|---------------|-------------|----------|-----------|-----------|-----------|-------------|
+| ![iOS Dark Notif](https://github.com/FontStory/font-story-data/blob/main/data/styles/ios_dark_notif.png) | ![iOS Message](https://github.com/FontStory/font-story-data/blob/main/data/styles/ios_message.png) | ![iOS Notif](https://github.com/FontStory/font-story-data/blob/main/data/styles/ios_notif.png) | ![Media](https://github.com/FontStory/font-story-data/blob/main/data/styles/media.png) | ![Player](https://github.com/FontStory/font-story-data/blob/main/data/styles/player.png) | ![Shadow](https://github.com/FontStory/font-story-data/blob/main/data/styles/shadow.png) | ![Stroke](https://github.com/FontStory/font-story-data/blob/main/data/styles/stroke.png) | ![Underline](https://github.com/FontStory/font-story-data/blob/main/data/styles/underline.png) |
+
 
 
 > All styles are editable and extendable via JSON — no Flutter coding needed!
